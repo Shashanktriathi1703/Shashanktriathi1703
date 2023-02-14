@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-Shashanktripathi1703/Shashanktriathi1703 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Shashanktripathi1703/Shashanktripathi1703 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
