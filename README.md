@@ -9,7 +9,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shashanktriathi1703&label=Profile%20views&color=0e75b6&style=flat" alt="shashanktriathi1703" /> </p>
 
-  <img src="https://github-profile-trophy.vercel.app?username=Shashanktriathi1703&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<p align="center"><img src="https://github-profile-trophy.vercel.app?username=Shashanktriathi1703&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /></p>
 
 
 <h3 align="center">Connect with me:</h3>
