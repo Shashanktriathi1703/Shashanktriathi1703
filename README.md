@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shashank Tripathi</h1>
-<h3 align="center">👋I am working at 🏢TCS as a Software Engineer, where I leverage my experience and knowledge to contribute to technological advancements. I am always eager to learn and explore new technologies to enhance my skills and stay updated with the latest industry trends🏆.</h3>
+<h1 align="center">Hi 👋, I'm Shashank</h1>
+<h3 align="center">👋 Working at 🏢TCS as a Software Engineer, I contribute to tech advancements while continuously learning and exploring new technologies to stay updated with industry trends.🏆</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shashanktriathi1703&label=Profile%20views&color=0e75b6&style=flat" alt="shashanktriathi1703" /> </p>
 
